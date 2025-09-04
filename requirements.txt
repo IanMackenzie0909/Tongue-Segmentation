@@ -1,0 +1,4 @@
+-r mmsegmentation/requirements/optional.txt
+-r mmsegmentation/requirements/runtime.txt
+-r mmsegmentation/requirements/tests.txt
+-r mmsegmentation/requirements/multimodal.txt
