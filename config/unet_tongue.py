@@ -1,5 +1,5 @@
 _base_ = [
-    '../_base_/datasets/tongue_custom.py',
+    './config/tongue_custom.py',
     '../_base_/default_runtime.py',
     '../_base_/schedules/schedule_40k.py'
 ]
